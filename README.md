@@ -1,7 +1,7 @@
 # Ormiston Athletics Club Website
 ### Created by Lia Arroyo, 2019
 
-This website is made for the admins of the (fictional) Ormiston Athletic Club to enrol club members, view/modify/display their details, fees, and scores. 
+This website was made for the admins of the (fictional) Ormiston Athletic Club to enrol club members, view/modify/search their details, fees, and scores. 
 This was created as part of Lia's Level 2 Computer Science project in 2019.
 
 **Website features:**
